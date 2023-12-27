@@ -2,6 +2,7 @@
 '''Defines and empty class square'''
 
 class Square:
-    '''defines properties of  a class square'''
+    '''Defines properties of  a class square
+    '''
 
     pass
